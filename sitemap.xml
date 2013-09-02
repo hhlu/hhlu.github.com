@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://howardlu.com/2013/09/02/getting-started-with-vagrant-and-puppet/</loc>
+        <lastmod>2013-09-02T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>http://howardlu.com/404/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/contact/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/about/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/tag/linux/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/tag/systems/</loc>
+    </url>
+    <url>
+        <loc>http://howardlu.com/tag/vms/</loc>
+    </url>
+</urlset>

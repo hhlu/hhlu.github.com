@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+    <title>howardlu.com</title>
+    <link href="http://howardlu.com/atom.xml" rel="self" />
+    <link href="http://howardlu.com" />
+    <updated>2013-09-02T22:27:03+00:00</updated>
+    <id>http://howardlu.com/</id>
+    <author>
+        <name>Howard Lu</name>
+    </author>
+
+    <entry>
+        <title>Getting Started With Vagrant And Puppet</title>
+        <link href="http://howardlu.com/2013/09/02/getting-started-with-vagrant-and-puppet/" />
+        <updated>2013-09-02T00:00:00+00:00</updated>
+        <id>http://howardlu.com/2013/09/02/getting-started-with-vagrant-and-puppet</id>
+        <content type="html">&lt;p&gt;Vagrant is an application allowing easy creation and management of virtual machines, and Puppet is a system configuration tool that works with it.&lt;/p&gt;
+
+&lt;p&gt;At my workplace, we use both of these to streamline our development process—you can be sure everyone is working in the same environment, and if anyone new needs to be brought onto a project, all they need to do is run a single command to get started. This can be further extended to a production environment where Puppet scripts can serve as a version-controlled source of documentation for how any given server is configured.&lt;/p&gt;
+
+&lt;p&gt;While these tools certainly work well in a larger team environment, I find them quite useful personally as well. I think most people have some sort of personal file backup nowadays, that doesn&amp;#8217;t save you from the inconvenience of re-installing all your applications and re-configuring your system settings should your computer have a critical failure. If that machine just happened to be one used for development as well, manually trying to get all your dependencies back to how they are supposed to be can be a huge pain. These tools solve this issue.&lt;/p&gt;</content>
+    </entry>
+</feed>
