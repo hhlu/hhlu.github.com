@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://howardlu.com/2013/09/02/getting-started-with-vagrant-and-puppet/</loc>
-        <lastmod>2013-09-02T00:00:00+00:00</lastmod>
+        <lastmod>2013-09-02T00:00:00-07:00</lastmod>
     </url>
 
     <url>
         <loc>http://howardlu.com/</loc>
+        <lastmod>2013-09-04T20:00:00-07:00</lastmod>
     </url>
     <url>
         <loc>http://howardlu.com/contact/</loc>
+        <lastmod>2013-09-04T20:00:00-07:00</lastmod>
     </url>
     <url>
         <loc>http://howardlu.com/about/</loc>
+        <lastmod>2013-09-04T20:00:00-07:00</lastmod>
     </url>
     <url>
         <loc>http://howardlu.com/tag/linux/</loc>
+        <lastmod>2013-09-04T20:02:39-07:00</lastmod>
     </url>
     <url>
         <loc>http://howardlu.com/tag/systems/</loc>
+        <lastmod>2013-09-04T20:02:39-07:00</lastmod>
     </url>
     <url>
         <loc>http://howardlu.com/tag/vms/</loc>
+        <lastmod>2013-09-04T20:02:39-07:00</lastmod>
     </url>
 </urlset>
